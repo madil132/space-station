@@ -1,0 +1,5 @@
+# Space Station Coworking Lahore robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://spacestation.pk/sitemap.xml

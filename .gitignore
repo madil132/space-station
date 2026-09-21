@@ -1,0 +1,21 @@
+# Vercel
+.vercel
+
+# Environment & local secrets
+.env
+.env.local
+.env.*.local
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Agent internal files
+.agent/skills/apple-design-skill/.git
+
+# Node / dependencies if added later
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
